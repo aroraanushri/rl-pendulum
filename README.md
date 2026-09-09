@@ -46,3 +46,8 @@ The test script opens the environment in render mode, loads `q_table.npy`, and p
 
 - If `q_table.npy` is missing, the training script creates a fresh table and the test script exits with `no qtable found`.
 - You can tune learning behavior by editing the constants inside `train_carpole.py`, such as the number of episodes, epsilon decay, learning rate, and discount factor.
+
+
+
+https://github.com/user-attachments/assets/38894248-697b-4ce5-826a-223beb7a003d
+
